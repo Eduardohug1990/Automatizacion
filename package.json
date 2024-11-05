@@ -1,0 +1,22 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "Curso Automatizacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "Eduardo Hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "automatizacion": "file:",
+    "prettier": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
