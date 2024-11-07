@@ -1,0 +1,16 @@
+module.exports = {
+    //semi hace que al final de cada linea se ponga un punto y coma
+    "semi": false,
+    //singleQuote hace que las comillas dobles se cambien por comillas simples
+    "singleQuote": true,
+    //backetSpacing hace que se ponga un espacio entre el nombre de la funcion y el parentesis
+    "backetSpacing": true,
+    //useTabs hace que se usen tabs en vez de espacios
+    "useTabs": true,
+    //tabWidth hace que el tab tenga un ancho de 4 espacios
+    "tabWidth": 4,
+    //trailingComma hace que se ponga una coma al final de un objeto
+    "trailingComma": "es5",
+
+
+}
