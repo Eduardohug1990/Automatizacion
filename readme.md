@@ -11,7 +11,7 @@
  * - **start:** Inicia la aplicación usando Node.js.
  * ## Dependencias
  * - **automatizacion:** Dependencia de archivo local utilizada para manejar tareas específicas del proyecto.
- * - **chai:** Versión ^5.1.2, una biblioteca de aserciones BDD / TDD que facilita la escritura de pruebas legibles y mantenibles.
+ * - **chai:** Versión ^4.3.4, una biblioteca de aserciones BDD / TDD que facilita la escritura de pruebas legibles y mantenibles.
  * - **mocha:** Versión ^10.8.2, un marco de pruebas de JavaScript que permite ejecutar pruebas tanto en Node.js como en el navegador.
  * - **prettier:** Versión ^3.3.3, un formateador de código que asegura un estilo consistente en todo el proyecto.
  * - **puppeteer:** Versión ^23.7.0, una API de Node.js para controlar Chrome o Chromium sin cabeza, utilizada para pruebas de interfaz de usuario y automatización de tareas del navegador.
@@ -21,7 +21,6 @@
  * 
  * ## Repositorio
  * - **Tipo:** git
- * - **URL:** y
  * 
  * ## Información del Lockfile
  * - **Versión del Lockfile:** 3
